@@ -111,3 +111,39 @@ Para ejecutar el proyecto:
 ### Relación con el problema
 
 El proyecto aborda la optimización del OEE mediante mantenimiento predictivo inteligente aplicado a activos críticos industriales. La Fase 4 permite comunicar los principales resultados técnicos mediante visualizaciones, conclusiones y una estructura final trazable.
+## Actualización F4 - Proyecto Final Integrador
+
+La Fase 4 consolida el trabajo desarrollado en F1, F2 y F3 mediante un notebook integrador que articula definición del problema, preparación del dataset, diseño algorítmico, programación orientada a objetos, visualizaciones analíticas, trazabilidad y reflexión final.
+
+### Componentes incorporados en F4
+
+- Integración de las fases previas del proyecto.
+- Reestructuración del notebook según formato de entrega final.
+- Índice académico alineado con la pauta de evaluación.
+- Introducción, problemática, objetivos, metodología, resultados, discusión, conclusiones y bibliografía APA 7.
+- Visualizaciones analíticas avanzadas:
+  - Distribución de la variable objetivo `failure`.
+  - Histograma con curva KDE.
+  - Scatter plot con codificación de color.
+  - Gráfico de violín.
+  - Matriz de correlación o heatmap.
+- Uso de paletas de Seaborn para mejorar la presentación visual.
+- Declaración explícita del alcance del análisis respecto al OEE.
+
+### Alcance técnico
+
+El proyecto no calcula formalmente el OEE completo, ya que el dataset no contiene todas las variables necesarias para estimar disponibilidad, rendimiento y calidad. Sin embargo, el análisis se vincula con la dimensión de disponibilidad operacional, dado que estudia eventos de falla en activos industriales.
+
+### Resultados base
+
+- Total de registros procesados: 124.493.
+- Total de eventos de falla: 106.
+- Total de dispositivos únicos: 1.169.
+- Total de registros sin falla: 124.387.
+
+### Archivos principales
+
+- `F4/F4_Proyecto_Final_Integrador.ipynb`
+- `F4/F4_Proyecto_Final_Integrador_ejecutado.html`
+- `data/processed/dataset_procesado.csv`
+- `changelog.md`
