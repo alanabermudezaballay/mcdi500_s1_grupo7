@@ -1,0 +1,2 @@
+﻿analisis,n_original,chi2_original,v_cramer_original,n_sin_outliers,chi2_sin_outliers,v_cramer_sin_outliers,cambio_v_cramer,criterio_filtro
+Asociación RainToday vs RainTomorrow,145460,13597.526996824754,0.3057441620410713,139937,12453.017687438489,0.29831220544290277,-0.007431956598168532,Se excluyen outliers de Humidity3pm y WindGustSpeed; no se filtra Rainfall para no distorsionar RainToday
