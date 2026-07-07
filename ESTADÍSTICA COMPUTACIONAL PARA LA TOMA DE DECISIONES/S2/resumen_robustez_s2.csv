@@ -1,6 +1,0 @@
-﻿resultado_validado,metodo_robustez,conclusion,uso_recomendado_s3
-Media de Humidity3pm,Comparación original vs. sin outliers IQR,Parámetro estable si el cambio relativo es bajo,Usar como variable predictora candidata
-Media de Pressure3pm,Comparación original vs. sin outliers IQR,Parámetro estable si el cambio relativo es bajo,Usar como variable meteorológica de contexto
-Media de WindGustSpeed,Comparación original vs. sin outliers IQR,Parámetro estable si el cambio relativo es bajo,Usar como variable predictora candidata
-Diferencia Humidity3pm según RainTomorrow,Diferencia de medias original vs. sin outliers,Conclusión robusta si la diferencia se mantiene positiva y alta,Mantener Humidity3pm como variable prioritaria
-Asociación RainToday vs RainTomorrow,V de Cramer original vs. sin outliers meteorológicos,Conclusión robusta si la asociación se mantiene en magnitud similar,Mantener RainToday como variable predictora candidata

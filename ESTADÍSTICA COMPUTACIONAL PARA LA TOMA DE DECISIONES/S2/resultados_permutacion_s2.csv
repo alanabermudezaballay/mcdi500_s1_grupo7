@@ -1,2 +1,0 @@
-﻿analisis,variable_numerica,variable_grupo,media_yes,media_no,diferencia_observada,n_permutaciones,p_value_permutacion,resultado_s1,conclusion
-Permutación Humidity3pm según RainTomorrow,Humidity3pm,RainTomorrow,68.29196599429055,46.855726649234484,21.436239345056066,10000,0.0,Prueba t de Welch con p < 0.001,Se rechaza H0; Humidity3pm es mayor cuando RainTomorrow = Yes
