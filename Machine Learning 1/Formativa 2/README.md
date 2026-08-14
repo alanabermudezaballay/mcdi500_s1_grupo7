@@ -1,5 +1,3 @@
-# Formativa 2
+# Formativa 2 — Grupo 7
 
-Estructura completa de trabajo de la Evaluación Formativa 2 de Machine Learning 1 — Grupo 7.
-
-El notebook ejecutado, los documentos oficiales, las fuentes, la figura exportada y la tabla de resultados se conservan en sus carpetas correspondientes.
+Continuación del proyecto iniciado en la Sumativa 1 con el dataset Iris. Se modela el ancho del pétalo a partir del largo del pétalo mediante regresión lineal, árbol de decisión y red neuronal MLP. California Housing se conserva únicamente como referencia docente en Drive y no forma parte de esta entrega.

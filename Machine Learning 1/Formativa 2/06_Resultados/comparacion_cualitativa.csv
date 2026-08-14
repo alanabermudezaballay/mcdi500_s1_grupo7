@@ -1,0 +1,4 @@
+﻿Modelo,Interpretabilidad,Fortaleza,Limitación
+Regresión lineal simple,Alta,Relación global clara,No captura curvaturas locales
+Árbol de decisión,Alta,Reglas y tramos interpretables,Predicción escalonada; sensible a profundidad
+Red neuronal MLP,Media-baja,Flexibilidad no lineal y menor error,Mayor complejidad; requiere escalamiento

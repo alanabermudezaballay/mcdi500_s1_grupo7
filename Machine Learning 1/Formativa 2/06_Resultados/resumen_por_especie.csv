@@ -1,0 +1,6 @@
+﻿,largo_petalo_cm,largo_petalo_cm,largo_petalo_cm,largo_petalo_cm,largo_petalo_cm,ancho_petalo_cm,ancho_petalo_cm,ancho_petalo_cm,ancho_petalo_cm,ancho_petalo_cm
+,count,mean,std,min,max,count,mean,std,min,max
+especie,,,,,,,,,,
+setosa,50,1.462,0.174,1.0,1.9,50,0.246,0.105,0.1,0.6
+versicolor,50,4.26,0.47,3.0,5.1,50,1.326,0.198,1.0,1.8
+virginica,50,5.552,0.552,4.5,6.9,50,2.026,0.275,1.4,2.5

@@ -1,3 +1,3 @@
 # 04_Informe
 
-Informe y presentación de la evaluación.
+Informe final en PDF correspondiente al análisis de regresión sobre Iris del Grupo 7.

@@ -1,3 +1,3 @@
 # 03_Notebooks
 
-Notebooks de desarrollo y versión ejecutada.
+Notebook Iris validado mediante ejecución completa de sus 15 celdas de código, sin errores.
