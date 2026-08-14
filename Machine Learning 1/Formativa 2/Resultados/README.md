@@ -1,3 +1,3 @@
-# 04_Resultados
+# Resultados
 
 Tablas, métricas y figuras generadas por los modelos.
