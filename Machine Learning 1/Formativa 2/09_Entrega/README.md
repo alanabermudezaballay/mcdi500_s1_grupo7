@@ -1,7 +1,8 @@
 # 09_Entrega
 
-Archivos finales de la Formativa 2 del Grupo 7:
+Entrega académica visible para el docente:
 
-- Notebook ejecutado en formato `.ipynb`.
-- Informe final editable en formato `.docx`.
-- Informe final para entrega en formato `.pdf`.
+- `MCDI504_F2_GRUPO7_Notebook_Validado.ipynb`: notebook validado mediante ejecución completa de sus seis celdas de código, sin errores.
+- `MCDI504_S2_2_GRUPO7_FINAL.pdf`: informe final en PDF.
+
+Las versiones editables en Word se conservan únicamente en Drive.
