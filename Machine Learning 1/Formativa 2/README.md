@@ -1,6 +1,6 @@
 # Formativa 2 — Machine Learning 1
 
-Espacio de trabajo del Grupo 7 para desarrollar la Evaluación Formativa 2 sobre modelos de regresión.
+Repositorio del Grupo 7 para el desarrollo de la Evaluación Formativa 2 sobre modelos de regresión.
 
 ## Integrantes
 
@@ -12,6 +12,10 @@ Espacio de trabajo del Grupo 7 para desarrollar la Evaluación Formativa 2 sobre
 
 David Ruete
 
-## Organización
+## Estructura
 
-Cada carpeta contiene un archivo README con su propósito. Los archivos oficiales y el desarrollo se incorporarán en la carpeta correspondiente.
+- `01_Datos`
+- `02_Notebook`
+- `03_Informe`
+- `04_Resultados`
+- `05_Entrega`
